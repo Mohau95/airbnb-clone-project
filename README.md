@@ -7,8 +7,6 @@ This project aims to build a scalable clone of Airbnb, focusing on user manageme
 - Ensure secure and efficient data handling.
 - Implement features that mirror real-world rental platforms.
 
-## Tech Stack
-(To be detailed later)
 
 
 ## Team Roles
